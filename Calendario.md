@@ -1,4 +1,6 @@
-Calendario POO Agosto-Diciembre 2018 Grupo A2
+# Calendario POO Agosto-Diciembre 2018 Grupo A2
+
+
 | S  | Fecha    | Actividad                                              |
 |----|----------|--------------------------------------------------------|
 | 1  | 06/08/18 | ¿Artistas que Programan?                               |
